@@ -1,4 +1,6 @@
-![MasterHead](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)
+<p align="center">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Nishat Tasnim</h1>
 <h3 align="center">🚀 Welcome to my GitHub! I'm Nishat Tasnim, a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences.</h3>
 
