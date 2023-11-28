@@ -13,7 +13,7 @@ Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link]
 
 ## 📚 Recent Projects
 
-1. **Project Name 1**
+1. **Task Manager**
    - Description: Create, read, update, and delete tasks and change their status.
    - Technologies: React, Express.
    - GitHub Repository: [Link](https://github.com/NishatTasnim00/ToDo-List-Client)
