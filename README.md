@@ -9,7 +9,7 @@
 
 ## 🌐 Portfolio
 
-Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link]([https://your-portfolio-link.com](https://warm-fox-3f1aeb.netlify.app/))
+Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link](https://warm-fox-3f1aeb.netlify.app/)
 
 ## 📚 Recent Projects
 
