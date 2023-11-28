@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishat Tasnim</h1>
 <h3 align="center">🚀 Welcome to my GitHub! I'm Nishat Tasnim, a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishattasnim00&label=Profile%20views&color=0e75b6&style=flat" alt="nishattasnim00" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishattasnim00" alt="nishattasnim00" /></a> </p>
-
 - 🌱 I’m currently learning **MySQL, Redux**
 
 - 👨‍💻 All of my projects are available at [https://warm-fox-3f1aeb.netlify.app/](https://warm-fox-3f1aeb.netlify.app/)
@@ -28,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishattasnim00&show_icons=true&locale=en&layout=compact" alt="nishattasnim00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishattasnim00&show_icons=true&locale=en" alt="nishattasnim00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishattasnim00&" alt="nishattasnim00" /></p>
