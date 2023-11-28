@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **MySQL, Redux**
 
-- 👨‍💻 All of my projects are available at [https://warm-fox-3f1aeb.netlify.app/](https://warm-fox-3f1aeb.netlify.app/)
-
-- 💬 Ask me about **react, javascript,**
+- 💬 Ask me about **React, Javascript, Nodejs**
 
 - 📫 How to reach me **tasnim.nt00@gmail.com**
 
@@ -19,6 +17,7 @@ Check out my portfolio for a glimpse of my projects and skills: [Portfolio Link]
    - Description: Create, read, update, and delete tasks and change their status.
    - Technologies: React, Express.
    - GitHub Repository: [Link](https://github.com/NishatTasnim00/ToDo-List-Client)
+     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishat-tasnim00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishat-tasnim00/" height="30" width="40" /></a>
