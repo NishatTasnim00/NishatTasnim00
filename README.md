@@ -1,5 +1,5 @@
 <p align="center">
-  <img height='400px' width='850px' src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="MasterHead">
+  <img height='400px' width='850px' src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=1380&t=st=1701598217~exp=1701598817~hmac=2622cb351ee9d9b8f3b8dbeacacda0c7b36b5b6942ecf273b6469f537aeee9e1" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Nishat Tasnim</h1>
 <h3 align="center">🚀 Welcome to my GitHub! I'm Nishat Tasnim, a passionate and skilled full-stack web developer with expertise in creating robust and scalable web applications. My goal is to leverage cutting-edge technologies to deliver seamless user experiences.</h3>
